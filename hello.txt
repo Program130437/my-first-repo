@@ -3,5 +3,7 @@ using namespace std;
 
 int main() {
 cout << "Hello Linux!";
+cout << "This is a new feature.";
+
 return 0;
 }
